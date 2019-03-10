@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1520331957262.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1681268329",
+    "id" : "1200FAC8",
+    "lastKnownWriteTime" : 1524002305,
+    "last_content_update" : 1524002305786,
+    "path" : "/Volumes/HD-PVRU2/data/usa/usa.R",
+    "project_path" : "usa.R",
+    "properties" : {
+        "cursorPosition" : "132,0",
+        "scrollLine" : "129",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552214698385.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2084262694",
+    "id" : "9166008F",
+    "lastKnownWriteTime" : 1552229166,
+    "last_content_update" : 1552229166104,
+    "path" : "/Volumes/HD-PVRU2/data/usa/script/model_build.R",
+    "project_path" : "script/model_build.R",
+    "properties" : {
+        "cursorPosition" : "10,15",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

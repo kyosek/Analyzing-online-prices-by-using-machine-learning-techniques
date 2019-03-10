@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552214694859.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3582760387",
+    "id" : "F3C2AB0",
+    "lastKnownWriteTime" : 1552214672,
+    "last_content_update" : 1552214672,
+    "path" : "/Volumes/HD-PVRU2/data/usa/script/analysis.R",
+    "project_path" : "script/analysis.R",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
