@@ -1,5 +1,6 @@
 ## load data
 df <- fread("~/usa.csv")
+df <- preprocess(df)
 
 # logistic regression
 model <- speedglm(event ~ duration + day +weekofm +  month +
