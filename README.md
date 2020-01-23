@@ -39,7 +39,7 @@ The Wald test is significant at 0%, which means all the features are informative
 
 Now this dissertation uses LASSO and Elastic net to select some of the most important features. As the characteristic of LASSO, it shrunk its coefficients to zero more than the Elastic net. After selected features, I applied Firth penalised logistic regression with those features. Following are the results of them.
 
-![first](visualisation/firth.png)
+![firth](visualisations/firth.png)
 
 The models yield quite similar results to the benchmark logistic regression model. The Wald tests are significant at 0% for both models. Both models find that price variable has a little power to predict a price adjustment. Also duration variable shows a negative but small effect on price adjustment on an additional day. Although their less predicting power, the LASSO and elastic net demonstrate that those two variables are the most important variables in the models. Secondly, this study confirms that there are several categories of products that have a flexible price setting, and others are sticky.
 
